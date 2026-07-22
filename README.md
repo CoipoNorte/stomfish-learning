@@ -1,4 +1,4 @@
-# ♞ Stomfish Learning
+# ♞ [Stomfish Learning](https://coiponorte.github.io/stomfish-learning/)
 
 <p align="center">
   <img src="public/favicon.svg" alt="Stomfish Learning" width="120" height="120" />

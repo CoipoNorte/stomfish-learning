@@ -8,7 +8,7 @@ import { LessonPage } from './pages/LessonPage';
 export default function App() {
   return (
     <LanguageProvider>
-      <BrowserRouter>
+      <BrowserRouter basename="/stomfish-learning">
         <Navbar />
         <Routes>
           <Route path="/" element={<LandingPage />} />
